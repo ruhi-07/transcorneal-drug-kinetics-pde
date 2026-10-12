@@ -28,4 +28,3 @@ The boundary constraints mimic exact anterior anatomy:
 | **L** | Central thickness profile of a standard human cornea | `0.05` | cm (500 μm) |
 | **D** | Diffusion coefficient of molecular drops inside stroma matrix | `3.2e-6` | cm² / s |
 | **\(k_{el}\)** | Elimination and baseline systemic clearance constant | `1.5e-4` | s⁻¹ |
-
